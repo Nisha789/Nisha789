@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 About Me
 Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building and optimizing data pipelines. 🚀<br><br>🔨 Currently working on Azure ADLS, Azure Data Factory, and Databricks to build and manage scalable data solutions.<br>📚 Exploring Azure Spark Streaming, Kafka, and Snowflake to enhance my real-time data processing skills.<br>🗄️ Continuously practicing SQL to sharpen my skills.<br>🤝 Open to collaborating on ETL pipeline optimizations and data engineering projects.<br>💬 Ask me about Apache Spark, Airflow, and cloud data solutions (and I might throw in some SQL tips too! 😉).<br>💡 Passionate about solving data challenges and optimizing workflows.<br>🎭 **Fun fact:** I believe ETL stands for **"Enjoy The Logs"** when things go wrong!📜📊🛠️😂
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisha-s-16410917a) 
 
 <!--
@@ -73,10 +73,10 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 ![](https://github-profile-trophy.vercel.app/?username=Nisha789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nisha789&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Nisha789&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -88,7 +88,7 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha789&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha789&radius=16&theme=light&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
 ###
