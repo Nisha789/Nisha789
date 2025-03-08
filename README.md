@@ -2,7 +2,7 @@
 Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building and optimizing data pipelines. 🚀<br><br>🔨 Currently working on Azure ADLS, Azure Data Factory, and Databricks to build and manage scalable data solutions.<br>📚 Exploring Azure Spark Streaming, Kafka, and Snowflake to enhance my real-time data processing skills.<br>🗄️ Continuously practicing SQL to sharpen my skills.<br>🤝 Open to collaborating on ETL pipeline optimizations and data engineering projects.<br>💬 Ask me about Apache Spark, Airflow, and cloud data solutions (and I might throw in some SQL tips too! 😉).<br>💡 Passionate about solving data challenges and optimizing workflows.<br>🎭 **Fun fact:** I believe ETL stands for **"Enjoy The Logs"** when things go wrong!📜📊🛠️😂
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisha-s-16410917a) 
 
 <!--
@@ -11,7 +11,6 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
- 
 
 ###
 
@@ -22,7 +21,7 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
@@ -64,7 +63,7 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 
 ###
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nisha789&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -88,7 +87,7 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha789&radius=16&theme=light&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha789&bg_color=ffffff&color=000000&line=1f78c1&point=ff5733&area=true&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
 ###
