@@ -5,21 +5,24 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisha-s-16410917a) 
 
+<!--
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
+ 
 
 ###
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nisha789.Nisha789&"  />
 </div>
+-->
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -62,8 +65,8 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 ###
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nisha789&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://nirzak-streak-stats.vercel.app/?user=Nisha789&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -76,8 +79,6 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 ![](https://github-contributor-stats.vercel.app/api?username=Nisha789&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nisha789&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br clear="both">
@@ -92,6 +93,7 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 
 ###
 
+<!--
 ###
 
 <div align="center">
@@ -109,3 +111,4 @@ Hi, I'm **Nisha** – a Data Engineer with 2+ years of experience in building an
 </div>
 
 ###
+-->
