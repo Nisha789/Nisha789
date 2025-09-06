@@ -122,7 +122,7 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 GitHub Contribution Animation
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <img src="https://raw.githubusercontent.com/Nisha789/Nisha789/output/snake.svg" alt="Snake animation" />
 
