@@ -33,6 +33,9 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 
 ###
 
+#### ☁️ Cloud & Data Platforms
+
+
 <div align="left">
 
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-spark-94zum7n2swq44413oz16m.png/apache-spark-xntvdsnrrb09llwflruka.png?_a=DAJFJtWIZAAC" height="40" alt="spark logo"  />
