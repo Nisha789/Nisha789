@@ -95,9 +95,9 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisha789&theme=default&show_icons=true&count_private=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha789&theme=default&layout=compact&langs_count=6)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha789&theme=default&layout=compact&langs_count=6) -->
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nisha789&theme=radical&no-bg=true)
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=Nisha789&theme=radical&no-bg=true) -->
 
 </div>
 
@@ -105,6 +105,10 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 ![](https://github-readme-stats.vercel.app/api?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nisha789&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha789&theme=default&layout=compact&langs_count=6)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nisha789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -124,11 +128,11 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha789&bg_color=ffffff&color=000000&line=1f78c1&point=ff5733&area=true&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
-###
+### -->
 
 <!--
 ###
