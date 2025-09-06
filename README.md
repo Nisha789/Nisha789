@@ -91,6 +91,18 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 ###
 
 # 📊 GitHub Stats
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisha789&theme=default&show_icons=true&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha789&theme=default&layout=compact&langs_count=6)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nisha789&theme=radical&no-bg=true)
+
+</div>
+
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nisha789&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha789&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
