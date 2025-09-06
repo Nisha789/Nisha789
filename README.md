@@ -34,7 +34,7 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 ###
 
 <div align="center">
-**Cloud & Data:**
+
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-spark-94zum7n2swq44413oz16m.png/apache-spark-xntvdsnrrb09llwflruka.png?_a=DAJFJtWIZAAC" height="40" alt="spark logo"  />
   <img width="12" />
   <img src="https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Emblem.png" height="40" alt="snowflake logo"  />
