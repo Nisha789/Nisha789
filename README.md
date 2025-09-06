@@ -11,6 +11,7 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisha-s-16410917a) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Nisha789)
 
 <!--
 <div align="center">
