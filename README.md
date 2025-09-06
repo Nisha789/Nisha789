@@ -34,7 +34,10 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
 ###
 
 #### ☁️ Cloud & Data Platforms
-
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+</div>
 
 <div align="left">
 
@@ -50,8 +53,7 @@ Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and op
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUVmHlPzCUAPXfI75lpYeQnxWWzUyB86qhA&s" height="40" alt="adf logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
