@@ -1,9 +1,10 @@
 # 💫 About Me
-Hi, I'm **Nisha** – a Data Engineer with 3 years of experience building and optimizing data pipelines.  
+Hi, I'm **Nisha** – a Data Engineer with 3+ years of experience building and optimizing ETL/ELT pipelines for analytics and BI at scale.  
 
 🔹 Currently working with **Azure ADLS, Azure Data Factory, and Databricks** to deliver scalable data solutions.  
-🔹 Exploring **Spark Streaming, Kafka, and Snowflake** for real-time data processing.  
-🔹 Passionate about solving **data challenges, optimizing ETL workflows, and implementing cloud data solutions**.  
+🔹 Skilled in **Databricks (PySpark, Delta Lake), Azure Data Factory, Synapse Analytics, and SQL** with a focus on performance and security.  
+🔹 Hands-on with **cloud migrations, CI/CD (Azure DevOps, ARM Templates), and real-time streaming** to deliver reliable, modern data platforms.  
+🔹 Passionate about **turning raw data into insights**, mentoring peers, and continuously exploring new data engineering tools and architectures.
 🔹 Open to collaborating on **ETL pipeline optimizations and data engineering projects**.  
 
 💡 **Fun fact:** I believe ETL sometimes stands for **"Enjoy The Logs"**! 😉 
