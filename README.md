@@ -101,7 +101,7 @@ I'm a **Data & AI Engineer at TCS** with **3+ years** of experience designing sc
 
 <div align="center">
 
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nisha789&theme=default&hide_border=true)
+  <img src="https://streak-stats.demolab.com?user=Nisha789&theme=default&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -111,17 +111,17 @@ I'm a **Data & AI Engineer at TCS** with **3+ years** of experience designing sc
 
 <div align="center">
 
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Nisha789&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=Nisha789&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Activity
 
 <div align="center">
 
-  ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Nisha789&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha789&bg_color=ffffff&color=0077B5&line=0077B5&point=ff6b35&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
