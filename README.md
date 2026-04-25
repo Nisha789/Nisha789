@@ -107,21 +107,11 @@ I'm a **Data & AI Engineer at TCS** with **3+ years** of experience designing sc
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Nisha789&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha789&bg_color=ffffff&color=0077B5&line=0077B5&point=ff6b35&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha789&bg_color=ffffff&color=0077B5&line=0077B5&point=ff6b35&area=true&hide_border=true&interval=month" alt="Contribution Activity Graph" />
 
 </div>
 
